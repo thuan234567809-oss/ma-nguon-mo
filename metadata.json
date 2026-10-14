@@ -1,0 +1,6 @@
+{
+  "name": "BistroTycoon 3D: F&B Empire Simulator",
+  "description": "A comprehensive 3D business simulation and management game where you build, operate, and scale an F&B enterprise from a street bistro to an empire.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

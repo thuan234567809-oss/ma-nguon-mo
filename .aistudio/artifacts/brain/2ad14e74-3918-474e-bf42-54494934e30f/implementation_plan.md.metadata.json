@@ -1,0 +1,6 @@
+{
+  "summary": "Kế hoạch nâng cấp toàn diện mô hình 3D xe cộ di chuyển & đậu lề đường, cùng hệ thống tòa nhà đô thị hiện đại có mái che và biển hiệu LED neon phát sáng.\nBao gồm tách module kiến trúc rõ ràng (cityVehicles.ts, cityBuildings.ts), giữ mọi file dưới 500 dòng code theo đúng quy tắc bắt buộc.",
+  "updatedAt": "2026-10-13T14:04:57.835846924Z",
+  "requestFeedback": true,
+  "userFacing": true
+}
